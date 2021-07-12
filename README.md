@@ -36,3 +36,4 @@ conda install -c conda-forge rise
 - RISEを使ってスライドを作ってみる
 - オープンデータでグラフを作り、そこからRISEでグラフがあるプレゼンを作る
 
+## あとはipynbファイルを見ながら進めます！
