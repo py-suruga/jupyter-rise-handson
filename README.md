@@ -19,7 +19,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # その先共通
-python -m pip install jupyter RISE
+python -m pip install jupyter RISE requests pandas plotly
 ```
 
 ### anaconda向け
