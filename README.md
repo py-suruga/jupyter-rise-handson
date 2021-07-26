@@ -27,7 +27,7 @@ python -m pip install jupyter RISE requests pandas plotly
 ※conda環境をあまり利用しないので、詳しくは公式ドキュメントを参照ください
 
 ```bash
-conda install -c conda-forge rise
+conda install -c conda-forge rise plotly
 ```
 
 ## ハンズオン内容
